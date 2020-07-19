@@ -1,13 +1,23 @@
 # Hey there! I'm V.
 
-<img src="https://raw.githubusercontent.com/v-glb/v-glb/master/header.png" alt="fancy header image">
+![Vadim's github stats](https://github-readme-stats.vercel.app/api?username=v-glb&show_icons=true&title_color=00a2cc&icon_color=00a2cc&bg_color=3c424d&text_color=d3d3d3)
 
 
-Fugiat consequat nulla nulla tempor irure. Aute in ut nulla velit ad cillum minim sunt eiusmod nostrud minim consectetur labore. Irure nulla excepteur velit reprehenderit sunt proident amet occaecat voluptate proident incididunt minim esse laborum. Aliquip commodo excepteur tempor in. Anim velit tempor anim nostrud elit irure elit eu nostrud et consequat tempor elit quis.
-Proident incididunt fugiat ut excepteur nulla ea commodo eiusmod duis. Adipisicing adipisicing eiusmod consequat aute ad anim dolore irure enim.
+I'm an Ex-Sysadmin taking my first steps into programming. Right now I’m in the middle of an apprenticeship for software development and working on front-end projects mostly, always curious to learn something new and broaden my horizons. I'm passionate about FOSS and not into ads, tracking/analytics, paywalls, affiliate links etc.
+
+Feel free to say [hello!](https://github.com/v-glb/v-glb/issues)
 
 
-## Lorem Ipsum h2:
-- Fugiat consequat nulla nulla tempor irure
-- Aute in ut nulla velit ad cillum minim sunt eiusmod nostrud minim consectetur labore
-- Anim velit tempor anim nostrud elit irure elit eu nostrud et consequat tempor elit quis
+## My mostly used languages/tools:
+
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
