@@ -5,7 +5,7 @@
 
 I'm an Ex-Sysadmin taking my first steps into programming. Right now I’m in the middle of an apprenticeship for software development and working on front-end projects mostly, always curious to learn something new and broaden my horizons. I'm passionate about FOSS and not into ads, tracking/analytics, paywalls, affiliate links etc.
 
-Feel free to say [hello!](https://github.com/v-glb/v-glb/issues)
+Feel free to use the Issues as a guestbook and say [hello!](https://github.com/v-glb/v-glb/issues)
 
 
 ## My mostly used languages/tools:
