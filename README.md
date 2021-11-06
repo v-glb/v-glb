@@ -3,7 +3,7 @@
 ![Vadim's github stats](https://github-readme-stats.vercel.app/api?username=v-glb&show_icons=true&title_color=00a2cc&icon_color=00a2cc&bg_color=3c424d&text_color=d3d3d3)
 
 
-I'm an Ex-Sysadmin taking my first steps into programming. Right now I’m in the middle of an apprenticeship for software development and working on front-end projects mostly, always curious to learn something new and broaden my horizons. I'm passionate about FOSS and not into ads, tracking/analytics, paywalls, affiliate links etc.
+I'm a Software Developer and former Sysadmin, always curious to learn something new and broaden my horizons. I've recently finished my apprenticeship for Software Development and working on Front-End projects mostly.
 
 Feel free to use the Issues as a guestbook and say [hello!](https://github.com/v-glb/v-glb/issues)
 
